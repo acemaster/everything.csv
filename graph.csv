@@ -1,376 +1,469 @@
-source,target
-Universe,Solar system
-Solar system,Mercury
-Solar system,Venus
-Solar system,Earth
-Solar system,Mars
-Solar system,Asteroid belt
-Solar system,Jupiter
-Solar system,Saturn
-Solar system,Uranus
-Solar system,Neptune
-Solar system,Pluto
-Earth,Afghanistan
-Earth,Albania
-Earth,Algeria
-Earth,American Samoa
-Earth,Andorra
-Earth,Angola
-Earth,Anguilla
-Earth,Antarctica
-Earth,Antigua and Barbuda
-Earth,Argentina
-Earth,Armenia
-Earth,Aruba
-Earth,Australia
-Earth,Austra
-Earth,Azerbaijan
-Earth,Bahamas
-Earth,Bahrain
-Earth,Bangladesh
-Earth,Barbados
-Earth,Belarus
-Earth,Belgium
-Earth,Belize
-Earth,Benin
-Earth,Bermuda
-Earth,Bhutan
-Earth,Bolivia
-Earth,Bosnia and Herzegovina
-Earth,Botswana
-Earth,Brazil
-Earth,Brunei Darussalam
-Earth,Bulgaria
-Earth,Burkina Faso
-Earth,Burundi
-Earth,Cambodia
-Earth,Cameroon
-Earth,Canada
-Earth,Cape Verde
-Earth,Cayman Islands
-Earth,Central African Republic
-Earth,Chad
-Earth,Chile
-Earth,China
-Earth,Christmas Island
-Earth,Cocos Islands
-Earth,Columbia
-Earth,Comoros
-Earth,Democratic Republic of the Congo
-Earth,Congo Republic
-Earth,Cook Islands
-Earth,Costa Rica
-Earth,Ivory Coast
-Earth,Croatia
-Earth,Cuba
-Earth,Cyprus
-Earth,Czech Republic
-Earth,Denmark
-Earth,Djibouti
-Earth,Dominica
-Earth,Dominion Republic
-Earth,East Timor
-Earth,Ecuador
-Earth,Egypt
-Earth,El Savador
-Earth,Equatorial Guinea
-Earth,Eritrea
-Earth,Estonia
-Earth,Ethiopia
-Earth,Falkland Islands
-Earth,Faroe Islands
-Earth,Fiji
-Earth,Finland
-Earth,France
-Earth,French Guiana
-Earth,French Polynesia
-Earth,Gabon
-Earth,Gambia
-Earth,Georgia
-Earth,Germany
-Earth,Ghana
-Earth,Gibraltar
-Earth,Great Britain
-Earth,Greece
-Earth,Greenland
-Earth,Grenada
-Earth,Guadeloupe
-Earth,Guam
-Earth,Guatemala
-Earth,Guinea
-Earth,Guinea-Bissau
-Earth,Guyana
-Earth,Haiti
-Earth,Honduras
-Earth,Hong Kong
-Earth,Hungary
-Earth,Iceland
-Earth,India
-Earth,Indonesia
-Earth,Iran
-Earth,Iraq
-Earth,Ireland
-Earth,Israel
-Earth,Italy
-Earth,Jamaica
-Earth,Japan
-Earth,Jordan
-Earth,Kazakhstan
-Earth,Kenya
-Earth,Kiribati
-Earth,North Korea
-Earth,South Korea
-Earth,Kosovo
-Earth,Kuwait
-Earth,Kyrgyzstan
-Earth,Lao
-Earth,Lativa
-Earth,Lebanon
-Earth,Losetho
-Earth,Liberia
-Earth,Libya
-Earth,Liechtenstein
-Earth,Lithuania
-Earth,Luxembourg
-Earth,Macau
-Earth,Macedonia
-Earth,Madagascar
-Earth,Malawi
-Earth,Malaysia
-Earth,Maldives
-Earth,Mali
-Earth,Malta
-Earth,Marshall Islands
-Earth,Martinique
-Earth,Mauritania
-Earth,Mauritius
-Earth,Mayotte
-Earth,Mexico
-Earth,Micronesia
-Earth,Moldova
-Earth,Monaco
-Earth,Mongolia
-Earth,Montenegro
-Earth,Montserrat
-Earth,Morocco
-Earth,Mozambique
-Earth,Myanmar
-Earth,Namibia
-Earth,Nauru
-Earth,Nepal
-Earth,Netherlands
-Earth,New Caledonia
-Earth,New Zealand
-Earth,Nicaragua
-Earth,Niger
-Earth,Nigeria
-Earth,Niue
-Earth,Northern Mariana Islands
-Earth,Norway
-Earth,Oman
-Earth,Pakistan
-Earth,Palau
-Earth,Palestinian territories
-Earth,Panama
-Earth,Papua New Guinea
-Earth,Paraguay
-Earth,Peru
-Earth,Phillipines
-Earth,Pitcairn Island
-Earth,Poland
-Earth,Portugal
-Earth,Puerto Rico
-Earth,Qatar
-Earth,Reunion Island
-Earth,Romania
-Earth,Russian Federation
-Earth,Rwanda
-Earth,Saint Kitts and Nevis
-Earth,Saint Lucia
-Earth,Saint Vincent and the Grenadines
-Earth,Samoa
-Earth,San Marino
-Earth,Sao Tome and Principe
-Earth,Saudi Arabia
-Earth,Senegal
-Earth,Serbia
-Earth,Seychelles
-Earth,Sierra leone
-Earth,Singapore
-Earth,Slovakia
-Earth,Slovenia
-Earth,Solomon Islands
-Earth,Somalia
-Earth,South Africa
-Earth,South Sudan
-Earth,Spain
-Earth,Sri Lanka
-Earth,Sudan
-Earth,Suriname
-Earth,Swaziland
-Earth,Sweden
-Earth,Switzerland
-Earth,Syria
-Earth,Taiwan
-Earth,Tajikistan
-Earth,Tanzania
-Earth,Thailand
-Earth,Tibet
-Earth,Timor-Leste
-Earth,Togo
-Earth,Tokelau
-Earth,Tonga
-Earth,Trinidad and Tobago
-Earth,Tunisia
-Earth,Turkey
-Earth,Turkmenistan
-Earth,Turks and Caicos Islands
-Earth,Tuvalu
-Earth,Uganda
-Earth,Ukraine
-Earth,United Arab Emirates
-Earth,United Kingdom
-Earth,United States
-Earth,Uruguay
-Earth,Uzbekistan
-Earth,Vanatu
-Earth,Vatican City State
-Earth,Venezuela
-Earth,Vietnam
-Earth,Virgin Islands (British)
-Earth,Virgin Islands (U.S.)
-Earth,Wallis and Futuna Islands
-Earth,Western Sahara
-Earth,Yemen
-Earth,Zambia
-Earth,Zimbabwe
-India,Andhra Pradesh
-India,Arunachal Pradesh
-India,Assam
-India,Bihar
-India,Chhattisgarh
-India,Goa
-India,Gujarat
-India,Haryana
-India,Himachal Pradesh
-India,Jammu and Kashmir
-India,Jharkand
-India,Karnataka
-India,Kerala
-India,Madhya Pradesh
-India,Maharashtra
-India,Manipur
-India,Meghalaya
-India,Mizoram
-India,Nagaland
-India,Odisha
-India,Punjab
-India,Rajasthan
-India,Sikkim
-India,Tamil Nadu
-India,Telengana
-India,Tripura
-India,Uttar Pradesh
-India,Uttarakhand
-India,West Bengal
-India,Andaman and Nicobar Islands
-India,Chandigarh
-India,Dadra and Nagar Haveli
-India,Daman and Diu
-India,Lakshadweep
-India,Delhi
-India,Puducherry
-Andhra Pradesh,Anantapur
-Andhra Pradesh,Chittoor
-Andhra Pradesh,East Godavari
-Andhra Pradesh,Guntur
-Andhra Pradesh,Kadapa
-Andhra Pradesh,Krishna
-Andhra Pradesh,Kurnool
-Andhra Pradesh,Nellore
-Andhra Pradesh,Prakasam
-Andhra Pradesh,Srikakulam
-Andhra Pradesh,Vishakhapatnam
-Andhra Pradesh,Vizianagaram
-Andhra Pradesh,West Godavari
-Arunachal Pradesh,Anjaw
-Arunachal Pradesh,Changlang
-Arunachal Pradesh,East Kameng
-Arunachal Pradesh,East Siang
-Arunachal Pradesh,Lohit
-Arunachal Pradesh,Longding
-Arunachal Pradesh,Lower Subansiri
-Arunachal Pradesh,Papum Pare
-Arunachal Pradesh,Tawang
-Arunachal Pradesh,Tirap
-Arunachal Pradesh,Lower Dibang Valley
-Arunachal Pradesh,Upper Siang
-Arunachal Pradesh,Upper Subansiri
-Arunachal Pradesh,West Kameng
-Arunachal Pradesh,West Siang
-Arunachal Pradesh,Upper Dibang Valley
-Arunachal Pradesh,Kurung Kumey
-Assam,Barpeta
-Assam,Bongaigaon
-Assam,Cachar
-Assam,Darrang
-Assam,Dhemaji
-Assam,Dhubri
-Assam,Dibrugarh
-Assam,Goalpara
-Assam,Golaghat
-Assam,Hailakandi
-Assam,Jorhat
-Assam,Karbi Anglong
-Assam,Karimganj
-Assam,Kokrajhar
-Assam,Lakhimpur
-Assam,Morigaon
-Assam,Nagaon
-Assam,Nalbari
-Assam,Dima Hasao
-Assam,Sivasagar
-Assam,Sonitpur
-Assam,Tinsukia
-Assam,Kamrup
-Assam,Kamrup Metropolitan
-Assam,Baksa
-Assam,Udalguri
-Assam,Chirang
-Bihar,Araria
-Bihar,Arwal
-Bihar,Aurangabad
-Bihar,Banka
-Bihar,Bhagalpur
-Bihar,Bhojpur
-Bihar,Buxar
-Bihar,Darbhanga
-Bihar,East Champaran
-Bihar,Gaya
-Bihar,Gopalganj
-Bihar,Jamui
-Bihar,Jehanabad
-Bihar,Khagaria
-Bihar,Kishanganj
-Bihar,Kaimur
-Bihar,Katihar
-Bihar,Lakhisarai
-Bihar,Madhubani
-Bihar,Munger
-Bihar,Madhepura
-Bihar,Muzaffarpur
-Bihar,Nalanda
-Bihar,Nawada
-Bihar,Patna
-Bihar,Purnia
-Bihar,Rohtas
-Bihar,Saharsa
-Bihar,Samastipur
-Bihar,Sheohar
-Bihar,Sheikhpura
-Bihar,Saran
-Bihar,Sitamarhi
-Bihar,Supaul
-Bihar,Siwan
-Bihar,Vaishali
-Bihar,West Champaran
+source,target,,,
+Universe,Solar system,,,
+Solar system,Mercury,,,
+Solar system,Venus,,,
+Solar system,Earth,,,
+Solar system,Mars,,,
+Solar system,Asteroid belt,,,
+Solar system,Jupiter,,,
+Solar system,Saturn,,,
+Solar system,Uranus,,,
+Solar system,Neptune,,,
+Solar system,Pluto,,,
+Earth,Afghanistan,,,
+Earth,Albania,,,
+Earth,Algeria,,,
+Earth,American Samoa,,,
+Earth,Andorra,,,
+Earth,Angola,,,
+Earth,Anguilla,,,
+Earth,Antarctica,,,
+Earth,Antigua and Barbuda,,,
+Earth,Argentina,,,
+Earth,Armenia,,,
+Earth,Aruba,,,
+Earth,Australia,,,
+Earth,Austra,,,
+Earth,Azerbaijan,,,
+Earth,Bahamas,,,
+Earth,Bahrain,,,
+Earth,Bangladesh,,,
+Earth,Barbados,,,
+Earth,Belarus,,,
+Earth,Belgium,,,
+Earth,Belize,,,
+Earth,Benin,,,
+Earth,Bermuda,,,
+Earth,Bhutan,,,
+Earth,Bolivia,,,
+Earth,Bosnia and Herzegovina,,,
+Earth,Botswana,,,
+Earth,Brazil,,,
+Earth,Brunei Darussalam,,,
+Earth,Bulgaria,,,
+Earth,Burkina Faso,,,
+Earth,Burundi,,,
+Earth,Cambodia,,,
+Earth,Cameroon,,,
+Earth,Canada,,,
+Earth,Cape Verde,,,
+Earth,Cayman Islands,,,
+Earth,Central African Republic,,,
+Earth,Chad,,,
+Earth,Chile,,,
+Earth,China,,,
+Earth,Christmas Island,,,
+Earth,Cocos Islands,,,
+Earth,Columbia,,,
+Earth,Comoros,,,
+Earth,Democratic Republic of the Congo,,,
+Earth,Congo Republic,,,
+Earth,Cook Islands,,,
+Earth,Costa Rica,,,
+Earth,Ivory Coast,,,
+Earth,Croatia,,,
+Earth,Cuba,,,
+Earth,Cyprus,,,
+Earth,Czech Republic,,,
+Earth,Denmark,,,
+Earth,Djibouti,,,
+Earth,Dominica,,,
+Earth,Dominion Republic,,,
+Earth,East Timor,,,
+Earth,Ecuador,,,
+Earth,Egypt,,,
+Earth,El Savador,,,
+Earth,Equatorial Guinea,,,
+Earth,Eritrea,,,
+Earth,Estonia,,,
+Earth,Ethiopia,,,
+Earth,Falkland Islands,,,
+Earth,Faroe Islands,,,
+Earth,Fiji,,,
+Earth,Finland,,,
+Earth,France,,,
+Earth,French Guiana,,,
+Earth,French Polynesia,,,
+Earth,Gabon,,,
+Earth,Gambia,,,
+Earth,Georgia,,,
+Earth,Germany,,,
+Earth,Ghana,,,
+Earth,Gibraltar,,,
+Earth,Great Britain,,,
+Earth,Greece,,,
+Earth,Greenland,,,
+Earth,Grenada,,,
+Earth,Guadeloupe,,,
+Earth,Guam,,,
+Earth,Guatemala,,,
+Earth,Guinea,,,
+Earth,Guinea-Bissau,,,
+Earth,Guyana,,,
+Earth,Haiti,,,
+Earth,Honduras,,,
+Earth,Hong Kong,,,
+Earth,Hungary,,,
+Earth,Iceland,,,
+Earth,India,,,
+Earth,Indonesia,,,
+Earth,Iran,,,
+Earth,Iraq,,,
+Earth,Ireland,,,
+Earth,Israel,,,
+Earth,Italy,,,
+Earth,Jamaica,,,
+Earth,Japan,,,
+Earth,Jordan,,,
+Earth,Kazakhstan,,,
+Earth,Kenya,,,
+Earth,Kiribati,,,
+Earth,North Korea,,,
+Earth,South Korea,,,
+Earth,Kosovo,,,
+Earth,Kuwait,,,
+Earth,Kyrgyzstan,,,
+Earth,Lao,,,
+Earth,Lativa,,,
+Earth,Lebanon,,,
+Earth,Losetho,,,
+Earth,Liberia,,,
+Earth,Libya,,,
+Earth,Liechtenstein,,,
+Earth,Lithuania,,,
+Earth,Luxembourg,,,
+Earth,Macau,,,
+Earth,Macedonia,,,
+Earth,Madagascar,,,
+Earth,Malawi,,,
+Earth,Malaysia,,,
+Earth,Maldives,,,
+Earth,Mali,,,
+Earth,Malta,,,
+Earth,Marshall Islands,,,
+Earth,Martinique,,,
+Earth,Mauritania,,,
+Earth,Mauritius,,,
+Earth,Mayotte,,,
+Earth,Mexico,,,
+Earth,Micronesia,,,
+Earth,Moldova,,,
+Earth,Monaco,,,
+Earth,Mongolia,,,
+Earth,Montenegro,,,
+Earth,Montserrat,,,
+Earth,Morocco,,,
+Earth,Mozambique,,,
+Earth,Myanmar,,,
+Earth,Namibia,,,
+Earth,Nauru,,,
+Earth,Nepal,,,
+Earth,Netherlands,,,
+Earth,New Caledonia,,,
+Earth,New Zealand,,,
+Earth,Nicaragua,,,
+Earth,Niger,,,
+Earth,Nigeria,,,
+Earth,Niue,,,
+Earth,Northern Mariana Islands,,,
+Earth,Norway,,,
+Earth,Oman,,,
+Earth,Pakistan,,,
+Earth,Palau,,,
+Earth,Palestinian territories,,,
+Earth,Panama,,,
+Earth,Papua New Guinea,,,
+Earth,Paraguay,,,
+Earth,Peru,,,
+Earth,Phillipines,,,
+Earth,Pitcairn Island,,,
+Earth,Poland,,,
+Earth,Portugal,,,
+Earth,Puerto Rico,,,
+Earth,Qatar,,,
+Earth,Reunion Island,,,
+Earth,Romania,,,
+Earth,Russian Federation,,,
+Earth,Rwanda,,,
+Earth,Saint Kitts and Nevis,,,
+Earth,Saint Lucia,,,
+Earth,Saint Vincent and the Grenadines,,,
+Earth,Samoa,,,
+Earth,San Marino,,,
+Earth,Sao Tome and Principe,,,
+Earth,Saudi Arabia,,,
+Earth,Senegal,,,
+Earth,Serbia,,,
+Earth,Seychelles,,,
+Earth,Sierra leone,,,
+Earth,Singapore,,,
+Earth,Slovakia,,,
+Earth,Slovenia,,,
+Earth,Solomon Islands,,,
+Earth,Somalia,,,
+Earth,South Africa,,,
+Earth,South Sudan,,,
+Earth,Spain,,,
+Earth,Sri Lanka,,,
+Earth,Sudan,,,
+Earth,Suriname,,,
+Earth,Swaziland,,,
+Earth,Sweden,,,
+Earth,Switzerland,,,
+Earth,Syria,,,
+Earth,Taiwan,,,
+Earth,Tajikistan,,,
+Earth,Tanzania,,,
+Earth,Thailand,,,
+Earth,Tibet,,,
+Earth,Timor-Leste,,,
+Earth,Togo,,,
+Earth,Tokelau,,,
+Earth,Tonga,,,
+Earth,Trinidad and Tobago,,,
+Earth,Tunisia,,,
+Earth,Turkey,,,
+Earth,Turkmenistan,,,
+Earth,Turks and Caicos Islands,,,
+Earth,Tuvalu,,,
+Earth,Uganda,,,
+Earth,Ukraine,,,
+Earth,United Arab Emirates,,,
+Earth,United Kingdom,,,
+Earth,United States,,,
+Earth,Uruguay,,,
+Earth,Uzbekistan,,,
+Earth,Vanatu,,,
+Earth,Vatican City State,,,
+Earth,Venezuela,,,
+Earth,Vietnam,,,
+Earth,Virgin Islands (British),,,
+Earth,Virgin Islands (U.S.),,,
+Earth,Wallis and Futuna Islands,,,
+Earth,Western Sahara,,,
+Earth,Yemen,,,
+Earth,Zambia,,,
+Earth,Zimbabwe,,,
+India,Andhra Pradesh,,,
+India,Arunachal Pradesh,,,
+India,Assam,,,
+India,Bihar,,,
+India,Chhattisgarh,,,
+India,Goa,,,
+India,Gujarat,,,
+India,Haryana,,,
+India,Himachal Pradesh,,,
+India,Jammu and Kashmir,,,
+India,Jharkand,,,
+India,Karnataka,,,
+India,Kerala,,,
+India,Madhya Pradesh,,,
+India,Maharashtra,,,
+India,Manipur,,,
+India,Meghalaya,,,
+India,Mizoram,,,
+India,Nagaland,,,
+India,Odisha,,,
+India,Punjab,,,
+India,Rajasthan,,,
+India,Sikkim,,,
+India,Tamil Nadu,,,
+India,Telengana,,,
+India,Tripura,,,
+India,Uttar Pradesh,,,
+India,Uttarakhand,,,
+India,West Bengal,,,
+India,Andaman and Nicobar Islands,,,
+India,Chandigarh,,,
+India,Dadra and Nagar Haveli,,,
+India,Daman and Diu,,,
+India,Lakshadweep,,,
+India,Delhi,,,
+India,Puducherry,,,
+Andhra Pradesh,Anantapur,,,
+Andhra Pradesh,Chittoor,,,
+Andhra Pradesh,East Godavari,,,
+Andhra Pradesh,Guntur,,,
+Andhra Pradesh,Kadapa,,,
+Andhra Pradesh,Krishna,,,
+Andhra Pradesh,Kurnool,,,
+Andhra Pradesh,Nellore,,,
+Andhra Pradesh,Prakasam,,,
+Andhra Pradesh,Srikakulam,,,
+Andhra Pradesh,Vishakhapatnam,,,
+Andhra Pradesh,Vizianagaram,,,
+Andhra Pradesh,West Godavari,,,
+Arunachal Pradesh,Anjaw,,,
+Arunachal Pradesh,Changlang,,,
+Arunachal Pradesh,East Kameng,,,
+Arunachal Pradesh,East Siang,,,
+Arunachal Pradesh,Lohit,,,
+Arunachal Pradesh,Longding,,,
+Arunachal Pradesh,Lower Subansiri,,,
+Arunachal Pradesh,Papum Pare,,,
+Arunachal Pradesh,Tawang,,,
+Arunachal Pradesh,Tirap,,,
+Arunachal Pradesh,Lower Dibang Valley,,,
+Arunachal Pradesh,Upper Siang,,,
+Arunachal Pradesh,Upper Subansiri,,,
+Arunachal Pradesh,West Kameng,,,
+Arunachal Pradesh,West Siang,,,
+Arunachal Pradesh,Upper Dibang Valley,,,
+Arunachal Pradesh,Kurung Kumey,,,
+Assam,Barpeta,,,
+Assam,Bongaigaon,,,
+Assam,Cachar,,,
+Assam,Darrang,,,
+Assam,Dhemaji,,,
+Assam,Dhubri,,,
+Assam,Dibrugarh,,,
+Assam,Goalpara,,,
+Assam,Golaghat,,,
+Assam,Hailakandi,,,
+Assam,Jorhat,,,
+Assam,Karbi Anglong,,,
+Assam,Karimganj,,,
+Assam,Kokrajhar,,,
+Assam,Lakhimpur,,,
+Assam,Morigaon,,,
+Assam,Nagaon,,,
+Assam,Nalbari,,,
+Assam,Dima Hasao,,,
+Assam,Sivasagar,,,
+Assam,Sonitpur,,,
+Assam,Tinsukia,,,
+Assam,Kamrup,,,
+Assam,Kamrup Metropolitan,,,
+Assam,Baksa,,,
+Assam,Udalguri,,,
+Assam,Chirang,,,
+Bihar,Araria,,,
+Bihar,Arwal,,,
+Bihar,Aurangabad,,,
+Bihar,Banka,,,
+Bihar,Bhagalpur,,,
+Bihar,Bhojpur,,,
+Bihar,Buxar,,,
+Bihar,Darbhanga,,,
+Bihar,East Champaran,,,
+Bihar,Gaya,,,
+Bihar,Gopalganj,,,
+Bihar,Jamui,,,
+Bihar,Jehanabad,,,
+Bihar,Khagaria,,,
+Bihar,Kishanganj,,,
+Bihar,Kaimur,,,
+Bihar,Katihar,,,
+Bihar,Lakhisarai,,,
+Bihar,Madhubani,,,
+Bihar,Munger,,,
+Bihar,Madhepura,,,
+Bihar,Muzaffarpur,,,
+Bihar,Nalanda,,,
+Bihar,Nawada,,,
+Bihar,Patna,,,
+Bihar,Purnia,,,
+Bihar,Rohtas,,,
+Bihar,Saharsa,,,
+Bihar,Samastipur,,,
+Bihar,Sheohar,,,
+Bihar,Sheikhpura,,,
+Bihar,Saran,,,
+Bihar,Sitamarhi,,,
+Bihar,Supaul,,,
+Bihar,Siwan,,,
+Bihar,Vaishali,,,
+Bihar,West Champaran,,,
+Chandigarh,	Chandigarh,,,
+Chattisgarh, Bastar,,,
+Chattisgarh, Bijapur,,,
+Chattisgarh, Bilaspur,,,
+Chattisgarh, Dantewada,,,
+Chattisgarh, Dhamtari,,,
+Chattisgarh, Durg,,,
+Chattisgarh, Jashpur,,,
+Chattisgarh, Janjgir-Champa,,,
+Chattisgarh, Korba,,,
+Chattisgarh, Koriya,,,
+Chattisgarh, Kanker,,,
+Chattisgarh, Kabirdham(Kawardha),,,
+Chattisgarh, Mahasamund,,,
+Chattisgarh, Narayanpur,,,
+Chattisgarh, Raigarh,,,
+Chattisgarh, Rajnandgaon,,,
+Chattisgarh, Raipur,,,
+Chattisgarh, Surajpur,,,
+Dadra and Nagar Haveli,	Dadra and Nagar Haveli,,,
+Daman and Diu,	Daman,,,
+Daman and Diu,	Diu,,,
+Delhi, Central Delhi,,,
+Delhi, East Delhi,,,
+Delhi, New Delhi,,,
+Delhi, North Delhi,,,
+Delhi, North East Delhi,,,
+Delhi, North West Delhi,,,
+Delhi, South Delhi,,,
+Delhi, South West Delhi,,,
+Delhi, West Delhi,,,
+Goa, North Goa,,,
+Goa, South Goa,,,
+Gujarat, Ahmedabad,,,
+Gujarat, Amreli,,,
+Gujarat, Anand,,,
+Gujarat, Aravalli,,,
+Gujarat, Banaskantha,,,
+Gujarat, Bharuch,,,
+Gujarat, Bhavnagar,,,
+Gujarat, Dahod,,,
+Gujarat, Dang,,,
+Gujarat, Gandhinagar,,,
+Gujarat, Jamnagar,,,
+Gujarat, Junagadh,,,
+Gujarat, Kutch,,,
+Gujarat, Kheda,,,
+Gujarat, Mehsana,,,
+Gujarat, Narmada,,,
+Gujarat, Navsari,,,
+Gujarat, Patan,,,
+Gujarat, Panchmahal,,,
+Gujarat, Porbandar,,,
+Gujarat, Rajkot,,,
+Gujarat, Sabarkantha,,,
+Gujarat, Surendranagar,,,
+Gujarat, Surat,,,
+Gujarat, Tapi,,,
+Gujarat, Vadodara,,,
+Gujarat, Valsad,,,
+Haryana, Ambala,,,
+Haryana, Bhiwani,,,
+Haryana, Faridabad,,,
+Haryana, Fatehabad,,,
+Haryana, Gurgaon,,,
+Haryana, Hissar,,,
+Haryana, Jhajjar,,,
+Haryana, Jind,,,
+Haryana, Karnal,,,
+Haryana, Kaithal,,,
+Haryana, Kurukshetra,,,
+Haryana, Mahendragarh,,,
+Haryana, Mewat,,,
+Haryana, Palwal,,,
+Haryana, Panchkula,,,
+Haryana, Panipat,,,
+Haryana, Rewari,,,
+Haryana, Rohtak,,,
+Haryana, Sirsa,,,
+Haryana, Sonipat,,,
+Haryana, Yamuna Nagar,,,
+Himachal Pradesh, Bilaspur,,,
+Himachal Pradesh, Chamba,,,
+Himachal Pradesh, Hamirpur,,,
+Himachal Pradesh, Kangra,,,
+Himachal Pradesh, Kinnaur,,,
+Himachal Pradesh, Kullu,,,
+Himachal Pradesh, Lahaul and Spiti,,,
+Himachal Pradesh, Mandi,,,
+Himachal Pradesh, Shimla,,,
+Himachal Pradesh, Sirmaur,,,
+Himachal Pradesh, Solan,,,
+Himachal Pradesh, Una,,,
