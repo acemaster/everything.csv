@@ -9,6 +9,34 @@
 .node {
   stroke: #fff;
 }
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
 /*
 #footer {
   position: absolute;
@@ -25,6 +53,7 @@
 <title>Everything.csv</title>
 <body>
 <script src="http://d3js.org/d3.v3.js"></script>
+<script src="d3.tip.js"></script>
 <script>
 
 var width = screen.width,
@@ -40,20 +69,38 @@ var force = d3.layout.force()
 d3.csv("graph.csv", function(links) {
   var nodesByName = {};
 
+  /* Initialize tooltip */
+  tip = d3.tip().attr('class', 'd3-tip').html(function(d) { return d.name; });
+
+  // Other valued rendered by the 'd' value in tool tip are
+  // SampleObject { 
+  //   name: "Somename", 
+  //   index: 599, 
+  //   weight: 1, 
+  //   x: 824.090367359045, 
+  //   y: 94.30975518819125, 
+  //   px: 824.090367359045, 
+  //   py: 94.30975518819125, 
+  //   fixed: 4 
+  // }
+
   // Create nodes for each unique source and target.
   links.forEach(function(link) {
     link.source = nodeByName(link.source);
     link.target = nodeByName(link.target);
   });
-
+  console.log(links);
   // Extract the array of nodes from the map by name.
   var nodes = d3.values(nodesByName);
-
+  console.log(nodesByName);
   // Create the link lines.
   var link = svg.selectAll(".link")
       .data(links)
     .enter().append("line")
       .attr("class", "link");
+
+  /* Invoke the tip in the context of your visualization */
+  svg.call(tip)
 
   // Create the node circles.
   var node = svg.selectAll(".node")
@@ -61,8 +108,11 @@ d3.csv("graph.csv", function(links) {
     .enter().append("circle")
       .attr("class", "node")
       .attr("r", 4.5)
+      /* Show and hide tip on mouse events */
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
       .call(force.drag);
-
+      
   // Start the force layout.
   force
       .nodes(nodes)
