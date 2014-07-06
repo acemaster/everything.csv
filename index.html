@@ -40,10 +40,10 @@ d3.csv("graph.csv", function(links) {
     link.source = nodeByName(link.source);
     link.target = nodeByName(link.target);
   });
-  console.log(links);
+  
   // Extract the array of nodes from the map by name.
   var nodes = d3.values(nodesByName);
-  console.log(nodesByName);
+  
   // Create the link lines.
   var link = svg.selectAll(".link")
       .data(links)
